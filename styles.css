@@ -176,9 +176,6 @@
     }
   }
 
-  .carousel-inner {
-      height: 300px;
-  }
   .item img {
       object-fit: cover;
       width: 100%;
